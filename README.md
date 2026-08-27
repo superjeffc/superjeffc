@@ -86,21 +86,6 @@ I am a **Lead Software Engineer** at **IBM** in New York with 10 years of experi
 
 ---
 
-### Featured Repositories
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[resume-optimizer](https://github.com/superjeffc/resume-optimizer)** | Privacy-first career asset & resume optimizer using serverless AI & PDF extraction. | Cloudflare Worker AI, TypeScript, `unpdf` |
-| **[Word-Frog](https://github.com/superjeffc/Word-Frog)** | Daily word-guessing puzzle game for iOS, Android, and Web. | React Native, Expo, Cloudflare Workers |
-| **[Yut](https://github.com/superjeffc/Yut)** | Interactive web implementation of the traditional Korean board game. | React, TypeScript, HTML5/CSS3 |
-| **[superjeffc.com](https://superjeffc.com)** | Personal website, resume showcase, and portfolio. | React, Tailwind CSS |
-| **[mcp-tools-server](https://github.com/superjeffc/mcp-tools-server)** | Serverless & remote Model Context Protocol (MCP) server with GitHub OAuth. | Cloudflare Workers, TypeScript, Python, MCP |
-| **[photography](https://github.com/superjeffc/photography)** | Digital showcase gallery of photography work. | JavaScript, Web Stack |
-| **[Linear-Algebra-Calculator](https://github.com/superjeffc/Linear-Algebra-Calculator)** | Android app for solving linear equations & matrix transformations. | Java, Android SDK |
-| **[Bird-Fetcher](https://github.com/superjeffc/Bird-Fetcher)** | Alexa Skill for retrieving bird calls and ornithology audio data. | Node.js, AWS Lambda / Alexa SDK |
-
----
-
 <p align="center">
   Feel free to reach out via <a href="mailto:jeff@superjeffc.com">jeff@superjeffc.com</a> or visit <a href="https://superjeffc.com">superjeffc.com</a>!
 </p>
