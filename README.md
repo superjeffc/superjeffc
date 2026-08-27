@@ -4,10 +4,6 @@
   <b>Lead Software Engineer @ IBM</b> • <b>Virtualization, Automation, AI</b> • <b>5 Patent Filings</b>
 </p>
 
-<p align="center">
-  <i>"Driven by the joy of creating low-level architectures and high-impact tools for others to enjoy."</i>
-</p>
-
 ---
 
 ### About Me
