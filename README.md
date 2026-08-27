@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://superjeffc.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90-4F46E5?style=for-the-badge" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/superjeffc/"><img src="https://img.shields.io/badge/%F0%9F%92%BC-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:jeff@superjeffc.com"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-EA4335?style=for-the-badge" alt="Email" /></a>
+  <a href="https://superjeffc.com"><img src="https://img.shields.io/badge/Website-4F46E5?style=for-the-badge" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/superjeffc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:jeff@superjeffc.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge" alt="Email" /></a>
 </p>
 
 ---
