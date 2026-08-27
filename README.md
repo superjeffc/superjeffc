@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jeff Chan!</h1>
 
 <p align="center">
-  <b>Lead Software Engineer @ IBM</b> • <b>Virtualization, Systems & GenAI/MCP SME</b> • <b>5 Patent Filings</b>
+  <b>Lead Software Engineer @ IBM</b> • <b>Virtualization, Automation, AI</b> • <b>5 Patent Filings</b>
 </p>
 
 <p align="center">
@@ -18,23 +18,23 @@
 
 ### About Me
 
-I am a **Lead Software Engineer** at **IBM** in New York with 10 years of experience specializing in hypervisor-level virtualization, low-level system optimization, memory dump diagnostics, and AI/Automation telemetry.
+I am a **Lead Software Engineer** at **IBM** in New York with 10 years of experience specializing in hypervisor-level virtualization, low-level system optimization, memory dump diagnostics, and AI & Automation pipelines.
 
-- **Global Subject Matter Expert (SME)** for IBM Z PR/SM hypervisor hardware resource placement algorithms and diagnostic tooling.
-- **Inventor** with **5 patent filings** (2 granted, 2 defensive publications) in multi-pool hardware resource modeling and virtualization algorithms.
-- **AI & Telemetry Innovator** designing GenAI, RAG, and Model Context Protocol (MCP) automated crash triage and test generation pipelines.
-- **Full-Stack & Mobile Developer** building open-source tools with **TypeScript**, **React / Expo**, **Cloudflare Workers**, and **Hono**.
+- **Global Subject Matter Expert (SME)** for IBM Z PR/SM hypervisor hardware resource placement algorithms and memory dump diagnostic tooling.
+- **Inventor** with **5 patent filings** in multi-pool hardware resource modeling and virtualization algorithms.
+- **AI & Automation Innovator** designing GenAI, RAG, and Model Context Protocol (MCP) automated crash triage and test execution pipelines.
+- **Full-Stack Developer** building open-source tools with **TypeScript**, **React / Expo**, **Cloudflare Workers**, and **Python**.
 - **B.S. in Computer Science** from Binghamton University.
 
 ---
 
 ### Career Highlights @ IBM
 
-- **Hypervisor AI Triage**: Architected automated memory dump analysis pipelines using **Python, RAG, and LLMs**, accelerating crash triage velocity for critical incidents.
-- **GenAI Test Orchestration**: Built an automated validation framework using GenAI, NLP, MCP tools, and state machines to convert specifications into test suites, **cutting execution cycle time by 50%**.
 - **Memory Dump Pipeline**: Reclaimed **14,000+ engineering hours ($1.4M+ annual value)** by designing an event-driven incident memory dump processing pipeline using **Python, Podman, and Jenkins** (processing 1,200+ annual datasets).
-- **Low-Level C Optimization**: Reduced field incidents by optimizing real-time capacity rebalancing algorithms using C, combinatorial search, and greedy heuristics.
-- **Diagnostics Velocity**: Modernized core crash analysis utilities from REXX to Python, boosting analytics query velocity **200x for 500+ systems developers**.
+- **AI-assisted Memory Dump Triage**: Architected automated AI analysis on memory dump using **Python, RAG, and LLMs**, accelerating crash triage velocity for critical incidents.
+- **AI-assisted Test Execution**: Built an automated test execution framework using GenAI, NLP, MCP tools, and state machines to convert specifications into test suites. 
+- **Low-Level Systems Optimization**: Reduced field incidents by optimizing real-time capacity rebalancing algorithms using combinatorial search, greedy algorithms, and heuristics.
+- **Diagnostics Velocity**: Modernized core crash analysis utilities from REXX to Python and removed bottlenecks detected via performance profiling, boosting analytics query velocity **200x for 500+ systems developers**.
 
 ---
 
@@ -42,7 +42,7 @@ I am a **Lead Software Engineer** at **IBM** in New York with 10 years of experi
 
 #### Systems & Low-Level Optimization
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembler-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembler](https://img.shields.io/badge/Assembler-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Hypervisor Virtualization](https://img.shields.io/badge/IBM_Z_PR/SM_Hypervisor-052146?style=for-the-badge&logo=ibm&logoColor=white)
 ![Memory Diagnostics](https://img.shields.io/badge/Memory_Dump_Diagnostics-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
 ![Performance Analysis](https://img.shields.io/badge/Trace_&_Performance_Analysis-000000?style=for-the-badge&logo=gdb&logoColor=white)
@@ -73,11 +73,11 @@ I am a **Lead Software Engineer** at **IBM** in New York with 10 years of experi
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[mcp-tools-server](https://github.com/superjeffc/mcp-tools-server)** | Serverless & remote Model Context Protocol (MCP) server with GitHub OAuth. | Cloudflare Workers, TypeScript, Hono, MCP |
 | **[resume-optimizer](https://github.com/superjeffc/resume-optimizer)** | Privacy-first career asset & resume optimizer using serverless AI & PDF extraction. | Cloudflare Worker AI, TypeScript, `unpdf` |
 | **[Word-Frog](https://github.com/superjeffc/Word-Frog)** | Daily word-guessing puzzle game for iOS, Android, and Web. | React Native, Expo, Cloudflare Workers |
 | **[Yut](https://github.com/superjeffc/Yut)** | Interactive web implementation of the traditional Korean board game. | React, TypeScript, HTML5/CSS3 |
 | **[superjeffc.com](https://superjeffc.com)** | Personal website, resume showcase, and portfolio. | React, Tailwind CSS |
+| **[mcp-tools-server](https://github.com/superjeffc/mcp-tools-server)** | Serverless & remote Model Context Protocol (MCP) server with GitHub OAuth. | Cloudflare Workers, TypeScript, Hono, MCP |
 | **[photography](https://github.com/superjeffc/photography)** | Digital showcase gallery of photography work. | JavaScript, Web Stack |
 | **[Linear-Algebra-Calculator](https://github.com/superjeffc/Linear-Algebra-Calculator)** | Android app for solving linear equations & matrix transformations. | Java, Android SDK |
 | **[Bird-Fetcher](https://github.com/superjeffc/Bird-Fetcher)** | Alexa Skill for retrieving bird calls and ornithology audio data. | Node.js, AWS Lambda / Alexa SDK |
