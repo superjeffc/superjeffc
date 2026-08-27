@@ -49,23 +49,23 @@ I am a **Lead Software Engineer** at **IBM** in New York with 10 years of experi
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Software, Virtualization & Architecture
+#### Systems Architecture & Virtualization
 ![IBM Z PR/SM Hypervisor](https://img.shields.io/badge/IBM_Z_PR/SM_Hypervisor-052146?style=for-the-badge&logo=ibm&logoColor=white)
 ![Bare-Metal Virtualization](https://img.shields.io/badge/Bare--Metal_Virtualization-1E293B?style=for-the-badge)
 ![CPU & Memory Topology](https://img.shields.io/badge/CPU_%26_Memory_Topology-334155?style=for-the-badge)
-![Platform Initialization](https://img.shields.io/badge/Platform_Initialization-475569?style=for-the-badge)
 ![Memory Subsystems](https://img.shields.io/badge/Memory_Subsystems-0EA5E9?style=for-the-badge)
 ![Resource Allocation](https://img.shields.io/badge/Resource_Allocation-0284C7?style=for-the-badge)
-![Hardware Bring Up](https://img.shields.io/badge/Hardware_Bring_Up-0369A1?style=for-the-badge)
 ![HW/SW Co-Design](https://img.shields.io/badge/HW/SW_Co--Design-075985?style=for-the-badge)
 ![Simulation Environments](https://img.shields.io/badge/Simulation_Environments-1F2937?style=for-the-badge)
 ![Common Criteria (EAL5+)](https://img.shields.io/badge/Common_Criteria_(EAL5+)-3B82F6?style=for-the-badge)
 
-#### Low-Level Debugging & Validation
+#### Low-Level Debugging, Bring-Up & Validation
+![Hardware Bring Up](https://img.shields.io/badge/Hardware_Bring_Up-0369A1?style=for-the-badge)
+![Platform Initialization](https://img.shields.io/badge/Platform_Initialization-475569?style=for-the-badge)
+![Hardware Diagnostics](https://img.shields.io/badge/Hardware_Diagnostics-374151?style=for-the-badge)
 ![Memory Dump Diagnostics](https://img.shields.io/badge/Memory_Dump_Diagnostics-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
 ![Instruction-Level Trace Analysis](https://img.shields.io/badge/Instruction--Level_Trace_Analysis-111827?style=for-the-badge)
 ![Performance Analysis](https://img.shields.io/badge/Performance_Analysis-000000?style=for-the-badge&logo=gdb&logoColor=white)
-![Hardware Diagnostics](https://img.shields.io/badge/Hardware_Diagnostics-374151?style=for-the-badge)
 
 #### AI, MCP & GenAI Automation
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white)
