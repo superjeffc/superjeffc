@@ -8,12 +8,6 @@
   <i>"Driven by the joy of creating low-level architectures and high-impact tools for others to enjoy."</i>
 </p>
 
-<p align="center">
-  <a href="https://superjeffc.com"><img src="https://img.shields.io/badge/Website-4F46E5?style=for-the-badge" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/superjeffc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:jeff@superjeffc.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge" alt="Email" /></a>
-</p>
-
 ---
 
 ### About Me
