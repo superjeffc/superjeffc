@@ -40,32 +40,25 @@ I am a **Lead Software Engineer** at **IBM** in New York with 10 years of experi
 
 ### Tech Stack & Skills
 
-#### Systems & Low-Level Optimization
+#### Languages & Core Technologies
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![PLX](https://img.shields.io/badge/PL/X-052146?style=for-the-badge&logo=ibm&logoColor=white)
 ![Assembler](https://img.shields.io/badge/Assembler-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Hypervisor Virtualization](https://img.shields.io/badge/IBM_Z_PR/SM_Hypervisor-052146?style=for-the-badge&logo=ibm&logoColor=white)
-![Memory Diagnostics](https://img.shields.io/badge/Memory_Dump_Diagnostics-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
-![Performance Analysis](https://img.shields.io/badge/Trace_&_Performance_Analysis-000000?style=for-the-badge&logo=gdb&logoColor=white)
-
-#### AI, MCP & Automation
-![MCP](https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white)
-![RAG & GenAI](https://img.shields.io/badge/GenAI_--_RAG-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-#### Full-Stack, Mobile & Cloud
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React / React Native](https://img.shields.io/badge/React_/_React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-#### Infrastructure, Tools & Databases
-![Docker / Podman](https://img.shields.io/badge/Docker_/_Podman-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins CI/CD](https://img.shields.io/badge/Jenkins_CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Software, Virtualization & Systems Engineering
+- **Architecture & Virtualization**: IBM Z PR/SM Hypervisor, Bare-Metal Virtualization, CPU & Memory Topology, Platform Initialization, Memory Subsystems, Resource Allocation, Hardware Bring Up, Hardware/Software Co-Design, Simulation Environments, Common Criteria (EAL5+)
+- **Low-Level Debugging & Validation**: Memory Dump Diagnostics, Instruction-Level Trace Analysis, Performance Analysis, Hardware Diagnostics
+
+#### AI, MCP & GenAI Automation
+- **AI & Telemetry**: Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG), GenAI, NLP, Agentic Coding Assistants
+
+#### Cloud, Infrastructure & Full-Stack
+- **Cloud & DevOps**: Cloudflare, GCP, Containers (Docker, Podman), CI/CD (Jenkins), Git
+- **Frontend & Mobile**: React / React Native, Expo, Tailwind CSS
 
 ---
 
