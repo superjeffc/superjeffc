@@ -84,15 +84,6 @@ I am a **Lead Software Engineer** at **IBM** in New York with 10 years of experi
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=superjeffc&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Jeff's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superjeffc&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="175" />
-</p>
-
----
-
 <p align="center">
   Feel free to reach out via <a href="mailto:jeff@superjeffc.com">jeff@superjeffc.com</a> or visit <a href="https://superjeffc.com">superjeffc.com</a>!
 </p>
