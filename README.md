@@ -23,7 +23,7 @@ I am a **Lead Software Engineer** at **IBM** in New York with 10 years of experi
 - **Global Subject Matter Expert (SME)** for IBM Z PR/SM hypervisor hardware resource placement algorithms and memory dump diagnostic tooling.
 - **Inventor** with **5 patent filings** in multi-pool hardware resource modeling and virtualization algorithms.
 - **AI & Automation Innovator** designing GenAI, RAG, and Model Context Protocol (MCP) automated crash triage and test execution pipelines.
-- **Full-Stack Developer** building open-source tools with **TypeScript**, **React / Expo**, **Cloudflare Workers**, and **Python**.
+- **Creator & Web Developer** building serverless web apps, games, and tools on my personal site **[superjeffc.com](https://superjeffc.com)** using **TypeScript**, **React / Expo**, **Cloudflare Workers**, and **Python**.
 - **B.S. in Computer Science** from Binghamton University.
 
 ---
