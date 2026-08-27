@@ -58,7 +58,7 @@ I am a **Lead Software Engineer** at **IBM** in New York with 10 years of experi
 ![React / React Native](https://img.shields.io/badge/React_/_React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### Infrastructure, Tools & Databases
@@ -77,7 +77,7 @@ I am a **Lead Software Engineer** at **IBM** in New York with 10 years of experi
 | **[Word-Frog](https://github.com/superjeffc/Word-Frog)** | Daily word-guessing puzzle game for iOS, Android, and Web. | React Native, Expo, Cloudflare Workers |
 | **[Yut](https://github.com/superjeffc/Yut)** | Interactive web implementation of the traditional Korean board game. | React, TypeScript, HTML5/CSS3 |
 | **[superjeffc.com](https://superjeffc.com)** | Personal website, resume showcase, and portfolio. | React, Tailwind CSS |
-| **[mcp-tools-server](https://github.com/superjeffc/mcp-tools-server)** | Serverless & remote Model Context Protocol (MCP) server with GitHub OAuth. | Cloudflare Workers, TypeScript, Hono, MCP |
+| **[mcp-tools-server](https://github.com/superjeffc/mcp-tools-server)** | Serverless & remote Model Context Protocol (MCP) server with GitHub OAuth. | Cloudflare Workers, TypeScript, Python, MCP |
 | **[photography](https://github.com/superjeffc/photography)** | Digital showcase gallery of photography work. | JavaScript, Web Stack |
 | **[Linear-Algebra-Calculator](https://github.com/superjeffc/Linear-Algebra-Calculator)** | Android app for solving linear equations & matrix transformations. | Java, Android SDK |
 | **[Bird-Fetcher](https://github.com/superjeffc/Bird-Fetcher)** | Alexa Skill for retrieving bird calls and ornithology audio data. | Node.js, AWS Lambda / Alexa SDK |
